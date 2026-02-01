@@ -2,7 +2,7 @@
 
 import {
   AlertTriangle,
-  Zap,
+  <Zap></Zap>,
   TrendingUp,
   Clock,
   Server,
