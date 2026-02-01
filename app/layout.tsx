@@ -14,7 +14,7 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   title: "IntelliSync | Intelligent Document QA + Log Analyzer",
   description:
-    "From raw data to real intelligence — in seconds. AI-powered document QA and log analysis platform.",
+    "From raw data to real intelligence — Just in seconds. AI-powered document QA and log analysis platform.",
   generator: "v0.app",
 };
 
