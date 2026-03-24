@@ -112,6 +112,11 @@ Purpose-built for SOC analysts, incident responders, developers, and system admi
 └─────────────────────────────────────────────────────┘
 ```
 
+<div align="center">
+  <img src="Aritecturee.png" width="800" alt="System Architecture" style="border-radius:10px; />
+</div>
+
+---
 ### Data Flow
 
 1. **User uploads** a log file (or pastes raw log text) via the web UI
