@@ -161,18 +161,4 @@ Contributions are welcome.
 
 Steps:
 
-Fork the repository
 
-Create a new branch
-
-git checkout -b feature-name
-
-Commit your changes
-
-git commit -m "added new feature"
-
-Push to the branch
-
-git push origin feature-name
-
-Open a Pull Request
