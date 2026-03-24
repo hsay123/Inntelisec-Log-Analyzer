@@ -113,7 +113,7 @@ Purpose-built for SOC analysts, incident responders, developers, and system admi
 ```
 
 <div align="center">
-  <img src="Aritecturee.png" width="800" alt="System Architecture" style="border-radius:10px; />
+  <img src="Screenshot From 2026-03-24 23-41-35.png" width="800" alt="System Architecture" style="border-radius:10px; />
 </div>
 
 ---
