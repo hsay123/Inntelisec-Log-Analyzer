@@ -53,7 +53,7 @@ Detects and categorizes system errors, highlights critical kernel messages, and 
 ### 📊 Automated Log Insights
 Converts raw, noisy log data into structured, readable summaries with severity classifications (INFO / WARNING / ERROR / CRITICAL).
 
-### 🌐 Web-Based Interface
+### Web-Based Interface
 Built on Next.js 14 with a modern React frontend — no command-line knowledge required. Upload a log file and get instant results in-browser.
 
 ### 🔒 Cybersecurity Monitoring
